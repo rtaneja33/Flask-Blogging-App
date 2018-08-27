@@ -1,0 +1,1 @@
+My first Flask web app - This is a blogging application that allows users to  create and log in to their own account. Users can post, edit, or delete "Blog" posts to a public board. This application is not currently being hosted but may in the future. See the full tutorial (not mine) at http://flask.pocoo.org/docs/1.0/tutorial/install/
